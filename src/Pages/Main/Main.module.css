@@ -1,0 +1,7 @@
+.mainContainer{
+   flex: 1 1 auto;
+}
+.siteBarContainer{
+   display: flex;
+   height: 100%;
+}

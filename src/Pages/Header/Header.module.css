@@ -1,0 +1,19 @@
+.container{
+   width: 100%;
+   height: 100px;
+   display: flex;
+   background: rgb(11, 15, 143);
+   padding: 10px 0 10px 0;
+}
+img{
+   width: auto;
+   height: 100px;
+   border-radius: 10px;
+}
+.flexContainer{
+   display: flex;
+   justify-content: space-between;
+}
+.loginLink{
+   color: white;
+}

@@ -1,0 +1,9 @@
+.btnUnfollowed{
+   background: red;
+}
+.btnFollow{
+   background: green;
+}
+button{
+   cursor: pointer;
+}
